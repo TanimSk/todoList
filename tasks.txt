@@ -2,3 +2,5 @@
 - take some rest
 - conduct a meeting
 - deploy website
+- do testing
+- meeting with client
